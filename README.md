@@ -3,11 +3,11 @@
 
 ## ✨ About
 
-Welcome to my journey through **Striver's DSA Sheet**.
+ I accepted Strivers Challenge and decided to be consistent for the next 45 days. 
 
-This repository serves as a personal archive of my progress, learnings, solutions, and reflections while exploring Data Structures and Algorithms. The goal is not just to solve problems, but to develop stronger analytical thinking, improve problem-solving skills, and build a deeper understanding of algorithmic concepts.
+This repository documents my journey through Striver’s DSA Sheet, where I solve problems, strengthen my problem-solving skills, and improve my understanding of Data Structures and Algorithms. The goal is not just to complete the challenge, but to build discipline, consistency, and a strong foundation for coding interviews and competitive programming.
 
-Every challenge solved is an opportunity to learn something new, discover better approaches, and grow as an engineer.
+Each day contains the solutions I worked on. 🚀
 
 ---
 
@@ -77,7 +77,59 @@ Every challenge solved is an opportunity to learn something new, discover better
 | Day 44 | |
 | Day 45 | |
 ---
+## 🚀  Challenge Progress
 
+| Status | Day |
+|---------|---------|
+| ✅ | Day 1 |
+| ✅ | Day 2 |
+| ⬜ | Day 3 |
+| ⬜ | Day 4 |
+| ⬜ | Day 5 |
+| ⬜ | Day 6 |
+| ⬜ | Day 7 |
+| ⬜ | Day 8 |
+| ⬜ | Day 9 |
+| ⬜ | Day 10 |
+| ⬜ | Day 11 |
+| ⬜ | Day 12 |
+| ⬜ | Day 13 |
+| ⬜ | Day 14 |
+| ⬜ | Day 15 |
+| ⬜ | Day 16 |
+| ⬜ | Day 17 |
+| ⬜ | Day 18 |
+| ⬜ | Day 19 |
+| ⬜ | Day 20 |
+| ⬜ | Day 21 |
+| ⬜ | Day 22 |
+| ⬜ | Day 23 |
+| ⬜ | Day 24 |
+| ⬜ | Day 25 |
+| ⬜ | Day 26 |
+| ⬜ | Day 27 |
+| ⬜ | Day 28 |
+| ⬜ | Day 29 |
+| ⬜ | Day 30 |
+| ⬜ | Day 31 |
+| ⬜ | Day 32 |
+| ⬜ | Day 33 |
+| ⬜ | Day 34 |
+| ⬜ | Day 35 |
+| ⬜ | Day 36 |
+| ⬜ | Day 37 |
+| ⬜ | Day 38 |
+| ⬜ | Day 39 |
+| ⬜ | Day 40 |
+| ⬜ | Day 41 |
+| ⬜ | Day 42 |
+| ⬜ | Day 43 |
+| ⬜ | Day 44 |
+| ⬜ | Day 45 |
+
+### 📊 Overall Progress
+`████░░░░░░░░░░░░░░░░░░░` **2/45 Days Completed**
+---
 ## 💡 Moto
 
 > Great problem solvers are built through curiosity, persistence, and consistent practice.
