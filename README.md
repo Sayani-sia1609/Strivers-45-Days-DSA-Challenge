@@ -34,7 +34,7 @@ Each day contains the solutions I worked on. 🚀
 | Day 1 | Pascal's Triangle • Set Matrix Zeroes • Next Permutation |
 | Day 2 | Kadane's Algorithm, Sort Colours,Stocks Buy and Sell|
 | Day 3 | Matrix Rotation,Merge Sorted Arrays,Merge Intervals|
-| Day 4 | |
+| Day 4 | Repeating Numbers,Repeating and missing numbers,Count Inversions|
 | Day 5 | |
 | Day 6 | |
 | Day 7 | |
@@ -84,7 +84,7 @@ Each day contains the solutions I worked on. 🚀
 | ✅ | Day 1 |
 | ✅ | Day 2 |
 | ✅ | Day 3 |
-| ⬜ | Day 4 |
+| ✅| Day 4 |
 | ⬜ | Day 5 |
 | ⬜ | Day 6 |
 | ⬜ | Day 7 |
@@ -128,7 +128,7 @@ Each day contains the solutions I worked on. 🚀
 | ⬜ | Day 45 |
 
 ### 📊 Overall Progress
-**3/45 Days Completed**
+**4/45 Days Completed**
 ---
 ## 💡 Moto
 
