@@ -35,11 +35,11 @@ Each day contains the solutions I worked on. 🚀
 | Day 2 | Kadane's Algorithm, Sort Colours,Stocks Buy and Sell|
 | Day 3 | Matrix Rotation,Merge Sorted Arrays,Merge Intervals|
 | Day 4 | Repeating Numbers,Repeating and missing numbers,Count Inversions|
-| Day 5 | |
-| Day 6 | |
-| Day 7 | |
-| Day 8 | |
-| Day 9 | |
+| Day 5 | Search in 2d Matrix, Power, Majority Elements|
+| Day 6 |Majority Elements-II,Unique Paths,Reverse Pairs |
+| Day 7 | Two Sum,4 sum.Longest consecutive Seqence in an Array|
+| Day 8 |Largest Subarray with sum k, Largest Subarray with XOR k,Longest Substring without repeating characters |
+| Day 9 |Reverse a LL, Find middle of Linked List,Merge two sorted list |
 | Day 10 | |
 | Day 11 | |
 | Day 12 | |
@@ -85,11 +85,11 @@ Each day contains the solutions I worked on. 🚀
 | ✅ | Day 2 |
 | ✅ | Day 3 |
 | ✅| Day 4 |
-| ⬜ | Day 5 |
-| ⬜ | Day 6 |
-| ⬜ | Day 7 |
-| ⬜ | Day 8 |
-| ⬜ | Day 9 |
+| ✅ | Day 5 |
+| ✅ | Day 6 |
+| ✅ | Day 7 |
+| ✅ | Day 8 |
+| ✅ | Day 9 |
 | ⬜ | Day 10 |
 | ⬜ | Day 11 |
 | ⬜ | Day 12 |
@@ -128,7 +128,7 @@ Each day contains the solutions I worked on. 🚀
 | ⬜ | Day 45 |
 
 ### 📊 Overall Progress
-**4/45 Days Completed**
+**9/45 Days Completed**
 ---
 ## 💡 Moto
 
