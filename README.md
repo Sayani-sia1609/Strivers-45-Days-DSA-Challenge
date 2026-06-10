@@ -40,7 +40,7 @@ Each day contains the solutions I worked on. 🚀
 | Day 7 | Two Sum,4 sum.Longest consecutive Seqence in an Array|
 | Day 8 |Largest Subarray with sum k, Largest Subarray with XOR k,Longest Substring without repeating characters |
 | Day 9 |Reverse a LL, Find middle of Linked List,Merge two sorted list |
-| Day 10 | |
+| Day 10 |Remove Nth Node From End of List,Add Two Numbers in a LL,Delete Node in a Linked List |
 | Day 11 | |
 | Day 12 | |
 | Day 13 | |
@@ -90,7 +90,7 @@ Each day contains the solutions I worked on. 🚀
 | ✅ | Day 7 |
 | ✅ | Day 8 |
 | ✅ | Day 9 |
-| ⬜ | Day 10 |
+| ✅| Day 10 |
 | ⬜ | Day 11 |
 | ⬜ | Day 12 |
 | ⬜ | Day 13 |
@@ -128,7 +128,7 @@ Each day contains the solutions I worked on. 🚀
 | ⬜ | Day 45 |
 
 ### 📊 Overall Progress
-**9/45 Days Completed**
+**10/45 Days Completed**
 ---
 ## 💡 Moto
 
