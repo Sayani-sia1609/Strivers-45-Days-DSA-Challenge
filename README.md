@@ -43,7 +43,7 @@ Each day contains the solutions I worked on. 🚀
 | Day 10 |Remove Nth Node From End of List,Add Two Numbers in a LL,Delete Node in a Linked List |
 | Day 11 | |
 | Day 12 | |
-| Day 13 | |
+| Day 13 |3sum,Rotate List,Copy List with Random Pointer |
 | Day 14 | |
 | Day 15 | |
 | Day 16 | |
@@ -93,7 +93,7 @@ Each day contains the solutions I worked on. 🚀
 | ✅| Day 10 |
 | ⬜ | Day 11 |
 | ⬜ | Day 12 |
-| ⬜ | Day 13 |
+| ✅ | Day 13 |
 | ⬜ | Day 14 |
 | ⬜ | Day 15 |
 | ⬜ | Day 16 |
